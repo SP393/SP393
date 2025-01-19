@@ -1,3 +1,7 @@
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/SP393/count.svg" alt="Visitor's Count" />
+</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=48&center=true&vCenter=true&width=500&height=70&color=185f00&duration=3000&lines=Hi+There!+🐲;+I'm+Sruthi+Pandiath!;" />
 </h1>
@@ -51,6 +55,18 @@ Feel free to check out my projects and get in touch! 📫
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SP393&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Sruthi's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=SP393&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Sruthi's Most Used Languages" />
 </div>
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SP393/SP393/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SP393/SP393/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SP393/SP393/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
 <!--
 **SP393/SP393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
