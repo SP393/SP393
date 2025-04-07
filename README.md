@@ -6,12 +6,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=48&center=true&vCenter=true&width=500&height=70&color=f5b041&duration=3000&lines=Hi+There!+🐲;+I'm+Sruthi+Pandiath!;" />
 </h1>
 
-I'm a **software developer** specializing in **cloud-native development** ☁️ and building **scalable, resilient applications** with **AWS** and **GCP**. Passionate about **full-stack development** 💻, I work primarily with the **MERN** and **MEAN** stacks, focusing on **performance optimization** ⚡ and **clean code** ✍️.
+I'm a **software developer** specializing in **cloud-native development** ☁️ and building **scalable, resilient applications** with **AWS** and **GCP**. Passionate about **full-stack development** , I work primarily with the **MERN** and **MEAN** stacks, focusing on **performance optimization**  and **clean code** .
 
-- 💡 **Favorite language**: **JavaScript**  
-- 🚀 Currently exploring **Generative AI** with cloud platforms  
-- 🔧 Experienced with **microservices**, **serverless architectures**, and **DevOps practices**  
-- 🌱 Always learning and building **future-proof solutions**
+-  **Favorite language**: **JavaScript**  
+-  Currently exploring **Generative AI** with cloud platforms  
+-  Experienced with **microservices**, **serverless architectures**, and **DevOps practices**  
+-  Always learning and building **future-proof solutions**
 
 Feel free to check out my projects and get in touch! 📫
 <div>
