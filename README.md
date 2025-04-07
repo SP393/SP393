@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/SP393/count.svg" alt="Visitor's Count" />
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=48&center=true&vCenter=true&width=500&height=70&color=58e827&duration=3000&lines=Hi+There!+🐲;+I'm+Sruthi+Pandiath!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=48&center=true&vCenter=true&width=500&height=70&color=f5b041&duration=3000&lines=Hi+There!+🐲;+I'm+Sruthi+Pandiath!;" />
 </h1>
 
 I'm a **software developer** specializing in **cloud-native development** ☁️ and building **scalable, resilient applications** with **AWS** and **GCP**. Passionate about **full-stack development** 💻, I work primarily with the **MERN** and **MEAN** stacks, focusing on **performance optimization** ⚡ and **clean code** ✍️.
